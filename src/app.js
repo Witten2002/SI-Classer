@@ -11,3 +11,9 @@
 //    Create a new instace of the Person
 //    Call the method greet.
 // -----------------------------------------
+
+import { Person } from './Person.js'
+
+const instanceOfPerson = new Person ('Tiberius', 28)
+
+instanceOfPerson.greet()

@@ -12,3 +12,14 @@
 //    Create a method called greet. That should write out in the console your name and age.
 //    Export the class.
 // -----------------------------------------
+
+export class Person {
+    constructor (name, age) {
+        this.name = name
+        this.age = age
+    }
+
+    greet() {
+        console.log(`This is your name: ${this.name}, and this is your age ${this.age}`)
+    }
+}
