@@ -2,6 +2,7 @@
  * This is the start point of the application
  *
  * @author Ludwig Wittenberg <lw223cq@student.lnu.se>
+ * @author Tiberius Gherac <tg222hh@student.lnu.se>
  * @version 1.0.0
  */
 
